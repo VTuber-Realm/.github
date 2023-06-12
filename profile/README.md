@@ -8,11 +8,10 @@ This is where we host our back-end and front-end code for future development pro
 
 # Projects 🤖
 Here is our future project plans that are all pretty exciting and think will help the VTuber world! Most of these are being led by [@Mieko Hikari](https://github.com/MiekoHikari) but everyone is open to contribute aslong as they follow each repo's respective rules! Each project has its actual name and it's used name in () to differentiate the development and production environment in a fun way (for me).
-## Amari (VTA Bot)
+## [Amari (VTA Bot)](https://github.com/VTuber-Academy/Amari)
 - Amari is a discord bot aimed to aid the [VTA discord community](https://discord.gg/vta) perform efficient back-end operations and engage the community with fun interactions!
 - It is planned to have [VTuber, Artists, Staff] Applications, ModMail, Silent Levelling, Radio, and many more...
 - It is built with the sapphire.js framework (node.js) with additional components that ensures TDD
-- Links: Not Available yet.
 ## PrimeStar (VTA Lexicon)
 - Not an approved project yet, hopefully planned soon!
 
