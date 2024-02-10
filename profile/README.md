@@ -12,8 +12,6 @@ Here is our future project plans that are all pretty exciting and think will hel
 - Amari is a discord bot aimed to aid the [VTA discord community](https://discord.gg/vta) perform efficient back-end operations and engage the community with fun interactions!
 - It is planned to have [VTuber, Artists, Staff] Applications, ModMail, Silent Levelling, Radio, and many more...
 - It is built with the sapphire.js framework (node.js) with additional components that ensures TDD
-## PrimeStar (VTA Lexicon)
-- Not an approved project yet, hopefully planned soon!
 
 # Open Source Contributions ✍️
 Everyone is free to contribute to the repos we have to offer aslong as you follow their respective rules! All new implementations require an approval from all VTA Staff so if it takes longer than usual to accept your changes, don't fret!
