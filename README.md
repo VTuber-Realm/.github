@@ -1,2 +1,2 @@
-# .github Customizations!
-This is where you'll find organization customizations and static rules!
+# Dot Github
+Universal items that apply throughout our projects in github.
